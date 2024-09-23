@@ -1,0 +1,5 @@
+alert-controller banner-controller faceplate-banner[appearance="error"],
+alert-controller banner-controller,
+alert-controller {
+  display: none !important;
+}
